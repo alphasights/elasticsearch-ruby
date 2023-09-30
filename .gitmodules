@@ -1,0 +1,4 @@
+[submodule "elasticsearch-core"]
+	path = support/elasticsearch
+	url = https://github.com/elasticsearch/elasticsearch.git
+  update = rebase
